@@ -43,7 +43,7 @@ module.exports = {
   // protectedRoutes: ['/Public/private' ,'/Public/1234' ],
   protectedRoutes: [
   '/Public/private',
-  '/another/route/for/me/to/protect',
+   '/Public/8888',
 ],
   
   
